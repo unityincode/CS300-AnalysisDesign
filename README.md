@@ -58,5 +58,7 @@ Evolving Approach to Software Design:
   Adapting Best Practices:
   Pseudocode Project: Applying best practices for pseudocode readability.
   C++ Project: Incorporating best practices in C++ coding standards.
+  
 **5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
+
   Working on the pseudocode project and the C++ course project provided a solid understanding of fundamental programming concepts, data structures, and algorithm design. It directed growth in approaching problems systematically, considering different data structures, and evolving my coding practices for better readability and maintainability.
